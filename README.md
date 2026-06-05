@@ -8,7 +8,7 @@
 
 -🗺作品 **資料視覺化**
 
-<img width="237" height="415" alt="ChatGPT Image 2026年5月22日 12_17_33" src="https://github.com/user-attachments/assets/1845ffdb-adea-4eb2-82ac-75c7c6d91cb1" />
+<img width="474" height="830" alt="ChatGPT Image 2026年5月22日 12_17_33" src="https://github.com/user-attachments/assets/1845ffdb-adea-4eb2-82ac-75c7c6d91cb1" />
 
 <img width="640" height="408" alt="Gemini_Generated_Image_x0tgiux0tgiux0tg" src="https://github.com/user-attachments/assets/62ed3da0-afda-4cf7-833c-6401132d7d9e" />
 
